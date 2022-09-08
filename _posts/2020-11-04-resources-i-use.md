@@ -1,46 +1,37 @@
 ---
 title: "Resources I use"
-date: "2020-11-04 11:18:30 +0200"
-author: NrdyBhu1
+date: "2022-09-09 11:18:30 +0200"
+author: Ziting Wang
 category: blog 
 ---
-
-I use a wide variety of ides, tools
-and other resources that can be helpful. Below is a collection of links to
-some of the most popular resources and tools that I use.
+此博客用来记录wzt和cyc的爱恨情仇
 
 {: .note .info}
-All of the tools linked here are free of cost
+加油  一定会好
 
 
-## Ides
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Visual Studio](https://visualstudio.microsoft.com/)
-- [Atom](http://atom.io/)
-- [Vim](https://www.vim.org/)
+## 近期吵架时间
+- 20220220
+- 8.22-9.1
+- 9.9
 
-## Drawing tools
-- [GIMP](https://www.gimp.org/)
-- [Inkscape](https://inkscape.org/)
-- [Krita](https://krita.org/en/)
-- [MSPaint](#)
+## 最近的承诺
+- 以后我的错误全都记住  cyc的随便
+- 不要老说承诺  要直接行动  不要说假话
+- 初初对我好  我做错事初初也原谅我了
+- 不强迫初初留SG
+- 不强迫自己的想法
+- 给初初24岁买蛋糕
+- 和以前一样好
+- 不能好两天就得意忘形
 
-MSPaint is a great tool actually no matter the look. A whole game`s art was made with only mspaint.
-
-## Audio and Sound effects
-
-- [Audacity](https://www.audacityteam.org/)
-- [BFXR](https://www.bfxr.net/)
-- [SFXR](https://www.drpetter.se/project_sfxr.html)
-
-{: .note .info}
-From here these links are for purchasing assets online 
-if you can't or don't have time to make to make game assets. They can be free of cost or priced
-
-## Online Assets
-- [Open Game Art](https://opengameart.org/)
-- [Free Stuff](http://www.dumbmanex.com/bynd_freestuff.html)
-- [GameDev Market](https://www.gamedevmarket.net/)
-- [GameTextures](https://gametextures.com/)
+## 接下来计划
+- 周杰伦演唱会
+- 五月天演唱会
+- 西海岸
+- 好吃馒头
+- 家政阿姨
+- 中间点租房子
+- 半个行李箱漂亮衣服
 
 
