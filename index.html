@@ -1,12 +1,14 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Page Title</title>
-</head>
-<body>
+---
+title: Home
+layout: base
+---
 
-<h1>This is a Heading</h1>
-<p>This is Ziting Wang's personal page.</p>
+<h1>My Latest Blogs</h1>
 
-</body>
-</html>
+<div class="blog-post">
+    {% for post in site.posts limit:5 %}
+    <h2><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a><h2>
+    <h3><i class="fas fa-calendar-alt"></i> {{ post.date | date_to_long_string }}</h3>
+    <p>{{ post.excerpt }} <a href="{{ post.url | absolute_url }}">[...]</a></p>
+    {% endfor -%}
+</div>

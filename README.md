@@ -1,1 +1,2 @@
-# personal_pages
+# Atlas-jekyll-theme
+![Preview](./atlas-normal.png)
