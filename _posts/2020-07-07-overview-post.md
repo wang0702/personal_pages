@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Abhinav Saxena
+author: Ziting Wang
 ---
 
 此博客用来记录wzt和cyc的爱恨情仇
